@@ -1,0 +1,1 @@
+Discuss where data wrangling fits in larger cloud-Ai Pipeline

@@ -1,0 +1,5 @@
+Mount command help to fetch data from drive
+IaaS - PaaS - SaaS
+Examples Huawei cloud ECS - Huawei Cloud ModelArts - Huawei cloud ECS
+
+

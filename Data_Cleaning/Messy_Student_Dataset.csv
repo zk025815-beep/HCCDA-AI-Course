@@ -1,0 +1,26 @@
+Student ID,Age,Gender,Study Hours per Day,Attendance Percent,Previous Score,Internet Access,Final Result
+S001,18,Female,2.5,88,72,Yes,Pass
+S002,19,Male,1.0,65,55,Yes,Pass
+S003,18,Female,4.0,95,84,Yes,Pass
+S004,20,Male,0.5,52,43,No,Fail
+S005,19,Female,3.0,90,78,Yes,Pass
+S006,21,Male,,70,61,Yes,Pass
+S007,20,Female,0.8,,49,No,Fail
+S008,18,Male,3.5,92,81,Yes,Pass
+S009,22,,2.0,76,68,Yes,Pass
+S010,21,Male,1.2,60,,No,Fail
+S011,19,FEMALE,4.5,97,89,YES,Pass
+S012,18,male,2.8,85,74,yes,pass
+S013,20,Female,1.0,63,57,No,Pass
+S014,22,Male,3.2,89,79,Yes,
+S015,21,Female,0.4,48,41,No,Fail
+S016,19,Male,2.3,80,69,Yes,Pass
+S017,18,Female,3.8,94,86,Yes,Pass
+S018,20,Male,0.7,55,46,No,Fail
+S019,22,Female,2.7,83,73,Yes,Pass
+S020,21,Male,1.8,72,63,Yes,Pass
+S005,19,Female,3.0,90,78,Yes,Pass
+S008,18,Male,3.5,92,81,Yes,Pass
+S021,19,Female,2.2,82,71,yes,Pass
+,20,Male,1.4,68,59,No,Fail
+S023,18,Female,3.1,91,80,Yes,Pass
